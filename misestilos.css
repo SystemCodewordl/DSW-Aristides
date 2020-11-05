@@ -1,5 +1,5 @@
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 22px small;
 }
 .tiulo{
     text-align: center;
@@ -15,5 +15,10 @@ body{
 .tabla{
     width: 80px;
     margin: 40pt;
+
+}
+
+.inicio{
+    font-size: 22px small;
 
 }
