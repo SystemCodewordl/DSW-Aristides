@@ -1,0 +1,44 @@
+h2{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.color_rojo {
+    color: crimson;
+    font-size: large;
+}
+
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: magenta;
+}
+
+.color_rojo {
+    color: royalblue
+    font-size: lightseagreen;
+}
+
+
+.tabla{
+    padding: 50px;
+}
+
+.tabla_div {
+    padding: 20px;
+    background-color: darkmagenta;
+}
+
+.elemento_div {
+    background-color: darkorange;
+    padding: 10px;
+    text-align: justify;
+}
+
+.manualidentidad {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #005883;
+}
